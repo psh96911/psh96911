@@ -3,7 +3,7 @@
 #### 🔹 Who Am I
 - I’m currently learning `Statistic`, `Machine Learning`, `Deep Learning`
 - I majored in Statistics.
-- My hometown is Yongin-si, Gyeonggi-do in South Korea
+- My hometown is Yongin, Gyeonggi-do in South Korea
 
 #### 🔹 Education
 - Sungkyunkwan University, Statistics (2021.03~ )
