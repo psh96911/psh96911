@@ -1,4 +1,4 @@
-###  Hello My name is SeungHoon Paik, I am studying statistics, machine learning, and deep learning.  👋
+###  SeungHoon Paik 👋
 
 <!--
 **psh96911/psh96911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
