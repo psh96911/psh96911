@@ -1,9 +1,9 @@
 ###  SeungHoon Paik 👋
 
 #### 🔹 Who Am I
-- 🌱 I’m currently learning `Statistic`, `Machine Learning`, `Deep Learning`
-- 🥇 I majored in Statistics.
-- 🚅 My hometown is Yongin-si, Gyeonggi-do in South Korea
+- I’m currently learning `Statistic`, `Machine Learning`, `Deep Learning`
+- I majored in Statistics.
+- My hometown is Yongin-si, Gyeonggi-do in South Korea
 
 #### 🔹 Education
 
