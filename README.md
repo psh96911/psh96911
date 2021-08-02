@@ -1,5 +1,11 @@
 ###  SeungHoon Paik 👋
 
+#### 🔹 Contest
+| Date | Contest | Rank | Language & Tool |
+|:---:|:---:|:---:|:---:|
+| 2021.04.26 ~ 2021.08.25 | 날씨 빅데이터 콘테스트: 기상에 따른 산림재해 예측 | - | Python |
+| 2020.04.21 ~ 2020.05.10 | Home Credit Default Risk | 2nd Winner | Python |
+
 <!--
 **psh96911/psh96911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
