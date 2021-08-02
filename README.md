@@ -6,7 +6,7 @@
 - My hometown is Yongin, Gyeonggi-do in South Korea
 
 #### 🔹 Education
-- Sungkyunkwan University , Statistics (2021.03~ )  `Master degree`
+- Sungkyunkwan University , Statistics (2021.02~ )  `Master degree`
 - Universitat Jaume I , Math & Statistics (2020.01~ 2020.06)  `exchange student`
 - Sejong University , Statistics (2015.03~ 2021.02)  `Bachelor's degree`
 
