@@ -1,5 +1,8 @@
 ###  SeungHoon Paik 👋
 
+#### 🔹 Education
+
+
 #### 🔹 Contest
 | Date | Contest | Rank | Language & Tool |
 |:---:|:---:|:---:|:---:|
