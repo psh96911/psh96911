@@ -1,4 +1,4 @@
-###  SeungHoon Paik 👋
+###  Seunghoon Paik 👋
 
 #### 🔹 Who Am I
 - I’m currently learning `Statistic`, `Machine Learning`, `Deep Learning`
